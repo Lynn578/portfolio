@@ -1,111 +1,85 @@
-Evalyne Wambui Githua – Data Scientist
-📊 Overview
-Evalyne Wambui Githua is a certified data scientist and machine learning specialist passionate about using data to drive business transformation and solve complex problems in HR, finance, and analytics. She combines advanced technical expertise with strong communication and business acumen to deliver actionable insights and intelligent solutions.
+Evalyne Wambui Githua – Data Scientist 🌟
+Welcome to my portfolio! I am Evalyne Wambui Githua, a passionate, certified data scientist and machine learning specialist committed to turning complex data into actionable business outcomes.
 
-🔗 Table of Contents
-About Me
+🚀 About Me
+I blend advanced analytics skills with creative problem-solving to deliver high-impact solutions for HR, business, and finance. My work includes:
 
-Education
+Building machine learning models with 95.42% accuracy for HR analytics.
 
-Certifications
+Automating data workflows (25% faster preprocessing) and interactive dashboard deployments.
 
-Professional Experience
-
-Technical Projects
-
-Core Competencies
-
-Contact
-
-Links
-
-👩💻 About Me
-Results-driven data scientist with hands-on experience in:
-
-Building predictive models, developing Tableau dashboards, and automating workflows
-
-Delivering a 95.42%-accurate HR analytics model, and streamlining data preprocessing (25% time saved)
-
-Translating complex datasets into clear, actionable business insights
+Delivering insights that drive business value and strategic decisions.
 
 🎓 Education
-Diploma in Data Science & Analytics
-Zetech University – Expected 2026
+Diploma in Data Science & Analytics, Zetech University (Expected 2026)
 
-Certified Data Scientist (200+ hours, Capstone: Pipeline Execution)
-African Centre for Data Science & Analytics – Feb–Jun 2024
+Certified Data Scientist
+African Centre for Data Science & Analytics (Feb–Jun 2024)
+Capstone: Delivered an end-to-end data pipeline and advanced ML solutions
 
 🏆 Certifications
 IABAC® Certified Data Scientist (Gold Standard, 2024)
 
-Globally recognized
-
-Hands-on project: CNN image classification
+Globally recognized credential (including CNN image classification project)
 
 Deloitte Data Analytics Simulation (Feb 2025)
 
-Forensic dashboards (Tableau)
+Built forensic dashboards and business reports (Tableau, Excel)
 
-Excel business reporting
+💼 Experience
+Machine Learning Intern (Intern Career, Jul 2024)
 
-💼 Professional Experience
-Machine Learning Intern
-Intern Career (Jul 2024)
+Ranked ‘A’ among 50+ interns
 
-Ranked ‘A’ among 50+ interns for ML optimization (Python)
+Elevated ML accuracy by 20% and automated recurring tasks
 
-Improved model accuracy by 20%
+Data Science Consultant (INX Future Inc., 2024)
 
-Automated data cleaning for multiple datasets (25% faster)
+Deployed XGBoost for HR analytics (95.42% accuracy)
 
-Data Science Consultant
-INX Future Inc. (2024, Project-Based)
+Identified salary-performance relationships (+48% correlation)
 
-Built XGBoost model (95.42% accuracy) for HR analytics (1,200 employees)
+Developed and launched an interactive HR dashboard (View Project)
 
-Identified salary as a key performance driver (+48% correlation)
+Job Shadowing Trainee (Diamond Trust Bank, Apr 28 – May 9, 2025)
 
-Deployed actionable dashboards (Streamlit)
+Hands-on commercial banking and finance immersion
 
-Job Shadowing Trainee
-Diamond Trust Bank Kenya (Apr 28 – May 9, 2025)
-
-Commercial banking and professional financial skills
-
-🚀 Technical Projects
+🚩 Key Projects
 Employee Performance Analysis
+
 Python, XGBoost, Tableau
 
-End-to-end pipeline: Data cleaning, EDA, GridSearchCV tuning
+Automated pipeline: cleaning ➔ EDA ➔ hyperparameter tuning with GridSearchCV
 
 Impact: Policy recommendations to boost satisfaction by 30%
 
 🔗 Live Dashboard
 
 Deloitte Analytics Simulation
-Tableau, Excel, PowerPoint
 
-100% simulation completion
+Detected and explained financial anomalies (40% faster prep via automation)
 
-Detected financial anomalies, automated prep, delivered recommendations
+Delivered five actionable business recommendations
 
 🔗 Simulation Details
 
-CNN Deep Learning (IABAC Project)
-TensorFlow
+IABAC Deep Learning Project – CNN (TensorFlow)
 
-Image classification basics as part of certification
+Built and deployed basic image classification models
 
-🌟 Core Competencies
+🛠️ Core Competencies
 Programming: Python (Pandas, Scikit-learn, TensorFlow, XGBoost), SQL
 
 Analytics: Predictive Modeling, Statistical Analysis, A/B Testing
 
-Data: Cleaning Automation, EDA, Data Visualization (Tableau, Power BI, Excel)
+Tools: Tableau, Power BI, Excel, Jupyter, Git
 
-Development: Flask APIs, Dashboarding, Model Deployment, Git, Jupyter
+Development: Flask APIs, model deployment, dashboard design
 
-📬 Contact
+Automation: Data cleaning workflows, process optimization
+
+📬 Connect with Me
 Email: evalynegithuaw@gmail.com
 
 LinkedIn: evalyn-wambui-a2a688289
@@ -113,12 +87,6 @@ LinkedIn: evalyn-wambui-a2a688289
 GitHub: Lynn578
 
 Download CV: 1.EVALYNE_WAMBUI_GITHUA_CV.docx
-
-🔗 Links
-Portfolio Site: Coming soon!
-
-Featured Project:
-Employee Performance Dashboard
 
 “Turning messy data into business value, one model at a time.”
 
