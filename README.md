@@ -1,4 +1,5 @@
 Evalyne Wambui Githua – Data Scientist 🌟
+
 Welcome to my portfolio! I am Evalyne Wambui Githua, a passionate, certified data scientist and machine learning specialist committed to turning complex data into actionable business outcomes.
 
 🚀 About Me
